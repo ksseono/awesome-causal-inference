@@ -4,6 +4,7 @@
 1. [The Book of Why: The New Science of Cause and Effect](https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X) by Judea Pearl, Dana Mackenzie
 2. [Counterfactuals and Causal Inference: Methods and Principles for Social Research (Analytical Methods for Social Research) 2nd Edition](https://www.amazon.com/Counterfactuals-Causal-Inference-Principles-Analytical/dp/1107694167) by Stephen L. Morgan, Christopher Winship
 3. [Elements of Causal Inference](https://mitpress.mit.edu/books/elements-causal-inference) By Jonas Peters, Dominik Janzing and Bernhard Schölkopf
+4. [의학 및 사회과학 연구를 위한 통계적 인과 추론](http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9791125102236) by Judea Pearl , Madelyn Glymour , Nicholas P , Jewell (김미정 옮김)
 
 ## Lectures
 1. [Introduction to Causal Inference, 2020](https://www.bradyneal.com/causal-inference-course)
