@@ -15,7 +15,7 @@
 2. [CausalNex](https://github.com/quantumblacklabs/causalnex)
     * 소개글: [Introducing CausalNex — Driving Models Which Respect Cause And Effect](https://medium.com/quantumblack/introducing-causalnex-driving-models-which-respect-cause-and-effect-a561545f0a5e)
     * DAGs with NO TEARS 도 구현에 반영한 것으로 보임
-3. [Causal ML: A Python Package for Uplift Modeling and Causal Inference with ML](https://github.com/uber/causalml), by Uber
+3. [Causal ML: A Python Package for Uplift Modeling and Causal Inference with ML](https://github.com/uber/causalml) by Uber
 
 ## Articles / Online Materials
 1. NC Soft 기술 블로그 
@@ -27,7 +27,8 @@
     * [인과추론 분석 설계에서 도메인 지식이 필요한 이유](https://danbi-ncsoft.github.io/study/2021/01/15/instrumentvariable.html) 
     * [게임 플레이어는 좋은 아이템을 획득하면 게임을 더 열심히 하게 될까?](https://danbi-ncsoft.github.io/works/2021/05/13/class_get_causal_analysis.html) 
 2. [Causality and Machine Learning](https://www.microsoft.com/en-us/research/group/causal-inference/#!downloads) by Microsoft Research
-3. [Causal Inference : Primer (2019-06-01 잔디콘)](https://www.slideshare.net/lumiamitie/causal-inference-primer-20190601), by 이민호
+3. [Causal Inference : Primer (2019-06-01 잔디콘)](https://www.slideshare.net/lumiamitie/causal-inference-primer-20190601) by 이민호
+4. [The Book of Why 정리](https://causal-inference-korea.gitbook.io/the-book-of-why) by Causal Inference Korea
 
 ## Others
 1. [imirzadeh/awesome-causal-inference](https://github.com/imirzadeh/awesome-causal-inference)
