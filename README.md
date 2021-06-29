@@ -9,6 +9,7 @@
 ## Lectures
 1. [Introduction to Causal Inference, 2020](https://www.bradyneal.com/causal-inference-course)
 2. [Getting Started with Causal Inference](https://causalinference.gitlab.io)
+3. [Causal Reinforcement Learning (CRL)](https://crl.causalai.net)
 
 ## Tools
 1. [DAGs with NO TEARS](https://github.com/xunzheng/notears) - structure learning
