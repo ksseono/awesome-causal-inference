@@ -5,11 +5,14 @@
 2. [Counterfactuals and Causal Inference: Methods and Principles for Social Research (Analytical Methods for Social Research) 2nd Edition](https://www.amazon.com/Counterfactuals-Causal-Inference-Principles-Analytical/dp/1107694167) by Stephen L. Morgan, Christopher Winship
 3. [Elements of Causal Inference](https://mitpress.mit.edu/books/elements-causal-inference) By Jonas Peters, Dominik Janzing and Bernhard Schölkopf
 4. [의학 및 사회과학 연구를 위한 통계적 인과 추론](http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9791125102236) by Judea Pearl , Madelyn Glymour , Nicholas P , Jewell (김미정 옮김)
+5. [Causal Inference: The Mixtape](https://mixtape.scunning.com/index.html) by Scott Cunningham
+6. [Causal Inference: What If](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/) by Miguel A. Hernan and James M. Robins
 
 ## Lectures
 1. [Introduction to Causal Inference, 2020](https://www.bradyneal.com/causal-inference-course)
 2. [Getting Started with Causal Inference](https://causalinference.gitlab.io)
 3. [Causal Reinforcement Learning (CRL)](https://crl.causalai.net)
+4. [Causal Diagrams: Draw Your Assumptions Before Your Conclusions](https://www.edx.org/course/causal-diagrams-draw-your-assumptions-before-your) (edX course)
 
 ## Tools
 1. [DAGs with NO TEARS](https://github.com/xunzheng/notears) - structure learning
