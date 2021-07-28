@@ -38,3 +38,4 @@
 1. [imirzadeh/awesome-causal-inference](https://github.com/imirzadeh/awesome-causal-inference)
 2. [matthewvowels1/Awesome-Causal-Inference](https://github.com/matthewvowels1/Awesome-Causal-Inference)
 3. [tangxiangru/awesome-causal-inference](https://github.com/tangxiangru/awesome-causal-inference)
+4. [jonghkim/awesome-machine-learning-management-research](https://github.com/jonghkim/awesome-machine-learning-management-research#causal_inference)
