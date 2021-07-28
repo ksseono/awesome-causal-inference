@@ -13,6 +13,7 @@
 2. [Getting Started with Causal Inference](https://causalinference.gitlab.io)
 3. [Causal Reinforcement Learning (CRL)](https://crl.causalai.net)
 4. [Causal Diagrams: Draw Your Assumptions Before Your Conclusions](https://www.edx.org/course/causal-diagrams-draw-your-assumptions-before-your) (edX course)
+5. [코로나19의 사회과학](https://sites.google.com/view/social-science-of-covid-19)
 
 ## Tools
 1. [DAGs with NO TEARS](https://github.com/xunzheng/notears) - structure learning
