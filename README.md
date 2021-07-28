@@ -34,7 +34,7 @@
 3. [Causal Inference : Primer (2019-06-01 잔디콘)](https://www.slideshare.net/lumiamitie/causal-inference-primer-20190601) by 이민호
 4. [The Book of Why 정리](https://causal-inference-korea.gitbook.io/the-book-of-why) by Causal Inference Korea
 
-## Others
+## Other Awesome Repos
 1. [imirzadeh/awesome-causal-inference](https://github.com/imirzadeh/awesome-causal-inference)
 2. [matthewvowels1/Awesome-Causal-Inference](https://github.com/matthewvowels1/Awesome-Causal-Inference)
 3. [tangxiangru/awesome-causal-inference](https://github.com/tangxiangru/awesome-causal-inference)
