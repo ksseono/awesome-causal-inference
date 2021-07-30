@@ -9,7 +9,7 @@
 6. [Causal Inference: What If](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/) by Miguel A. Hernan and James M. Robins
 
 ## Lectures
-1. [Introduction to Causal Inference, 2020](https://www.bradyneal.com/causal-inference-course)
+1. [Introduction to Causal Inference, 2020](https://www.bradyneal.com/causal-inference-course) by Brady Neal
 2. [Getting Started with Causal Inference](https://causalinference.gitlab.io)
 3. [Causal Reinforcement Learning (CRL)](https://crl.causalai.net)
 4. [Causal Diagrams: Draw Your Assumptions Before Your Conclusions](https://www.edx.org/course/causal-diagrams-draw-your-assumptions-before-your) (edX course)
