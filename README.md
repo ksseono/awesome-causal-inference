@@ -22,6 +22,7 @@
     * 소개글: [Introducing CausalNex — Driving Models Which Respect Cause And Effect](https://medium.com/quantumblack/introducing-causalnex-driving-models-which-respect-cause-and-effect-a561545f0a5e)
     * DAGs with NO TEARS 도 구현에 반영한 것으로 보임
 3. [Causal ML: A Python Package for Uplift Modeling and Causal Inference with ML](https://github.com/uber/causalml) by Uber
+    * 관련논문: [Uplift Modeling for Multiple Treatments with Cost Optimization](https://arxiv.org/abs/1908.05372)
 4. [Econ ML](https://econml.azurewebsites.net)
 5. [DoWhy](https://microsoft.github.io/dowhy/)
 6. [CausalImpact](https://google.github.io/CausalImpact/CausalImpact.html)
